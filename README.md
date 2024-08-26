@@ -4,4 +4,4 @@ This is a code for a music player in javascript. we create a project that you ca
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
